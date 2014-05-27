@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>esprima</artifactId>
-    <version>4001.1.0-dev-harmony-fb-SNAPSHOT</version>
+    <version>4001.1.0-dev-harmony-fb</version>
     <name>esprima</name>
     <description>WebJar for esprima</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/esprima</url>
         <connection>scm:git:https://github.com/webjars/esprima.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/esprima.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>esprima-4001.1.0-dev-harmony-fb</tag>
     </scm>
 
     <developers>
